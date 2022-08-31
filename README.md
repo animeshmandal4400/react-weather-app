@@ -3,7 +3,7 @@
 ![](weather.gif)
 
 ### Demo - Deployed over Github Pages 
-https://animesh4400.github.io/react-weather-app
+https://animeshmandal4400.github.io/react-weather-app
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
@@ -15,7 +15,7 @@ https://openweathermap.org/current
 * URL: `https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}`
 
 ### Icons & Font -
-* Icons: [animesh4400/react-weather-app](https://github.com/animeshmandal4400/react-weather-app/tree/master/public/icons)
+* Icons: [animeshmandal4400/react-weather-app](https://github.com/animeshmandal4400/react-weather-app/tree/master/public/icons)
 * Font Link: `<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">`
 
 ### Libraries used
