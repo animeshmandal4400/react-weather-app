@@ -1,4 +1,4 @@
-# React Weather App - ReactJS Projects
+# React Weather App - ReactJS Project
 
 ![](weather.gif)
 
